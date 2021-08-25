@@ -1,0 +1,65 @@
+{
+  "_from": "cordova-plugin-sim-alwaysmkt@^1.3.3",
+  "_id": "cordova-plugin-sim-alwaysmkt@1.3.3",
+  "_inBundle": false,
+  "_integrity": "sha1-QoZjMHfYhX5kVP4GmHB9CMaK2Ik=",
+  "_location": "/cordova-plugin-sim-alwaysmkt",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "cordova-plugin-sim-alwaysmkt@^1.3.3",
+    "name": "cordova-plugin-sim-alwaysmkt",
+    "escapedName": "cordova-plugin-sim-alwaysmkt",
+    "rawSpec": "^1.3.3",
+    "saveSpec": null,
+    "fetchSpec": "^1.3.3"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-sim-alwaysmkt/-/cordova-plugin-sim-alwaysmkt-1.3.3.tgz",
+  "_shasum": "4286633077d8857e6454fe0698707d08c68ad889",
+  "_spec": "cordova-plugin-sim-alwaysmkt@^1.3.3",
+  "_where": "/Users/isitalways/Documents/Jason/retailAIM_v4_d/retailAIM_v5_d/5/aim5_Native_v5",
+  "author": {
+    "name": "Jason"
+  }, 
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-sim-alwaysmkt",
+    "platforms": [
+      "android",
+      "ios",
+      "wp7",
+      "wp8",
+      "windows"
+    ]
+  },
+  "deprecated": false,
+  "description": "A fork for sim info reading with android bug fixes , this is a plugin to get the device's SIM data (carrier name, mcc mnc, country code, telephonenumber, imei, etc)",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "keywords": [
+    "cordova",
+    "sim",
+    "uicc",
+    "carrier",
+    "mcc",
+    "mnc",
+    "telephonenumber",
+    "imei",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-windows"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-sim-alwaysmkt",
+  "version": "1.3.3"
+}
